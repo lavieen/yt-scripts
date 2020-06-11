@@ -10,7 +10,7 @@
  
 ## Installation
 1) [Download](https://github.com/akashmeshram/yt-scripts/archive/master.zip) the whole repository. 
-2) Add PATH of both folders (bin and scripts) to Environment Variables in windows OS. ( see [How to add to path](https://docs.telerik.com/teststudio/features/test-runners/add-path-environment-variables))
+2) Add PATH of both folders (bin and scripts) to Environment Variables in windows OS. ( see [How to add to path](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/))
 
 ## Running
 In cmd/Powershell type
