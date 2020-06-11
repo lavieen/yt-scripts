@@ -2,8 +2,6 @@
 
 ### Handy Scripts files to download videos from YouTube.com and other video sites. 
 
- is a command-line program 
-
 * This script files uses [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) and [FFmpeg](https://ffmpeg.org/) to dowload video in best available Video and Audio format with subtitles (if available).
 
 * [Atomic Parsley](http://atomicparsley.sourceforge.net/) is used for adding metadata (Thumbail, etc.) to downloaded video.
