@@ -1,12 +1,12 @@
 # yt-scripts
 
-### Handy Scripts files for youtube-dl 
+### Handy Scripts files to download videos from YouTube.com and other video sites. 
 
-[youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) is a command-line program to download videos from YouTube.com and other video sites.
+ is a command-line program 
 
-* This script files uses youtube-dl and ffmpeg to dowload video in best available Video and Audio format with subtitles (if available).
+* This script files uses [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) and [FFmpeg](https://ffmpeg.org/) to dowload video in best available Video and Audio format with subtitles (if available).
 
-* Atomic parsley is used for adding metadata (Thumbail, etc.) to downloaded video.
+* [Atomic Parsley](http://atomicparsley.sourceforge.net/) is used for adding metadata (Thumbail, etc.) to downloaded video.
  
 ## Installation
 1) [Download](https://github.com/akashmeshram/yt-scripts/archive/master.zip) the whole repository. 
