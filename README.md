@@ -13,9 +13,9 @@
 ## Running
 In cmd/Powershell type
 
-`$ yt "<video link>"` // for single video download
+`$ yt <video link>` // for single video download
 
-`$ yt-pl "<Playlist link>"` // for Playlist download
+`$ yt-pl <Playlist link>` // for Playlist download
 
 ## Author
 [Akash Meshram](https://github.com/akashmeshram)
