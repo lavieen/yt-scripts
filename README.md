@@ -17,5 +17,9 @@ In cmd/Powershell type
 
 `$ yt-pl <Playlist link>` // for Playlist download
 
+`$ yt-m <video link>` // for mp3 file download of single video
+
+`$ yt-pl <Playlist link>` // for mp3 files download of Playlist
+
 ## Author
 [Akash Meshram](https://github.com/akashmeshram)
