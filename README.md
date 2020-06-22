@@ -19,7 +19,7 @@ In cmd/Powershell type
 
 `$ yt-m <video link>` // for mp3 file download of single video
 
-`$ yt-pl <Playlist link>` // for mp3 files download of Playlist
+`$ yt-ml <Playlist link>` // for mp3 files download of Playlist
 
 ## Author
 [Akash Meshram](https://github.com/akashmeshram)
